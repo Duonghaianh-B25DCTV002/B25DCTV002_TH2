@@ -1,0 +1,14 @@
+export const initialBooks = [
+  { id: 1, title: "Dế Mèn Phiêu Lưu Ký", author: "Tô Hoài", genre: "Văn học", year: 1941 },
+  { id: 2, title: "Số Đỏ", author: "Vũ Trọng Phụng", genre: "Văn học", year: 1936 },
+  { id: 3, title: "Lược Sử Thời Gian", author: "Stephen Hawking", genre: "Khoa học", year: 1988 },
+  { id: 4, title: "Sapiens: Lược Sử Loài Người", author: "Yuval Noah Harari", genre: "Lịch sử", year: 2011 },
+  { id: 5, title: "Clean Code", author: "Robert C. Martin", genre: "Công nghệ", year: 2008 },
+  { id: 6, title: "Truyện Kiều", author: "Nguyễn Du", genre: "Văn học", year: 1820 },
+  { id: 7, title: "Cosmos", author: "Carl Sagan", genre: "Khoa học", year: 1980 },
+  { id: 8, title: "Nghìn Năm Văn Hiến", author: "Nguyễn Quang Thắng", genre: "Lịch sử", year: 2001 },
+  { id: 9, title: "JavaScript: The Good Parts", author: "Douglas Crockford", genre: "Công nghệ", year: 2008 },
+  { id: 10, title: "Tắt Đèn", author: "Ngô Tất Tố", genre: "Văn học", year: 1939 },
+  { id: 11, title: "Vũ Trụ Trong Vỏ Hạt Dẻ", author: "Stephen Hawking", genre: "Khoa học", year: 2001 },
+  { id: 12, title: "Design Patterns", author: "Gang of Four", genre: "Công nghệ", year: 1994 }
+];
